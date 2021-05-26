@@ -20,7 +20,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet pharaoh BM7 Dos")
 print ""
-print "		by pharaoh BM7 & SUDIUM TA8"
+print "		by pharaoh BM7 & S0DIUM TA8"
 print "		telegram : +1 510 216 7579"
 print "		github   : pharaoh1bm7"
 print "		whatsapp : +994 40 778 12 25"
